@@ -1,4 +1,3 @@
-# WebsiteTemplate
-a Template for websites
+# Cam's Portfollio
+a portfollio for all of Cameron Phillips Project
 
-->you can add a description to your website here<-
